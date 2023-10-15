@@ -1,2 +1,3 @@
-# Video-autoplayer-of-xuetangx-
 学堂在线自动播放脚本
+
+播放完成学堂在线的视频后，自动切换至下一视频。
